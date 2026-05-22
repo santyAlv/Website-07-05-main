@@ -16,7 +16,7 @@ La aplicación cuenta con una estructura organizada mediante aplicaciones, archi
 ```bash
     Project/
     │
-    ├── Api/
+    ├── App/
     │   ├── migrations/
     │   ├── static/
     │   │   ├── css/
